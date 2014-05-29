@@ -9,6 +9,8 @@ XtraFinder
 
 SourceTree
 
+Reeder
+
 TeamViewer
 
 WunderList
