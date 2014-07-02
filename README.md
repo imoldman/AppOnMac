@@ -3,16 +3,12 @@ AppOnMac
 
 my recommend for app on mac os x
 
-iTerm
+iTerm http://www.iterm2.com/
 
-XtraFinder
+XtraFinder http://www.trankynam.com/xtrafinder/
 
-SourceTree
+SourceTree http://www.sourcetreeapp.com/
 
-Reeder
-
-TeamViewer
-
-WunderList
+WunderList https://www.wunderlist.com/
 
 
